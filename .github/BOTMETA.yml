@@ -404,6 +404,8 @@ files:
     authors: fraff
   $modules/cloud/ovh/ovh_vps_info.py:
     authors: unai-i
+  $modules/cloud/ovh/ovh_vps_reboot.py:
+    authors: unai-i
   $modules/cloud/packet/packet_device.py:
     authors: baldwinSPC t0mk teebes
   $modules/cloud/packet/:
